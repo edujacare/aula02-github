@@ -5,6 +5,7 @@ public class Program {
 	public static void main(String[] args) {
 		System.out.println("Projeto criado");
 		System.out.println("Primeira alteração realizada");
+		System.out.println("Segunda alteração realizada");
 	}
 
 }
